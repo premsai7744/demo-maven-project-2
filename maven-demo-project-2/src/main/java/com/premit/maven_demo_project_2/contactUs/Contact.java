@@ -10,4 +10,8 @@ public class Contact {
 		System.out.println("Help_US");
 		return "email";
 	}
+	
+	public String reachUs() {
+		return "reachUs@gmail.com";
+	}
 }
