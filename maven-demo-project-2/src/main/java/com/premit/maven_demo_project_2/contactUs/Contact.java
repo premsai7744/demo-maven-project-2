@@ -6,4 +6,13 @@ public class Contact {
 
 		return "1800-192-292";
 	}
+	
+	public String helpUs() {
+		System.out.println("Help_US");
+		return "email";
+	}
+	
+	public String reachUs() {
+		return "reachUs@gmail.com";
+	}
 }
