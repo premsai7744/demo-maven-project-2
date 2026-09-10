@@ -5,4 +5,9 @@ public class Contact {
 		System.out.println("Contact.contactUs()");
 		return "1800-192-292";
 	}
+	
+	public String helpUs() {
+		System.out.println("Help_US");
+		return "email";
+	}
 }
